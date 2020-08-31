@@ -2,6 +2,6 @@
 
 This repo will contain all the codes covered in the class
 
-#Week 2 day 1
+# Week 2 day 1
 Covered basics and git workflow
 
